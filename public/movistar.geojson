@@ -1,0 +1,256 @@
+{
+  "type": "FeatureCollection",
+  "name": "ANTENAS_Movistar",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 52,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "LA LANGOSTA",
+        "DIRECCION": "Av. Fco. Esteban Gomez. Sector Costa Azul, al lado de la S/E  Morroco de Corpoelec. Municipio mariño. Porlamar.",
+        "COORDENADAS": "Lat 10° 58' 27.33'' / Lon -63° 49' 29.23''",
+        "operadora": "MOVISTAR",
+        "OPERADORA": "MOVISTAR",
+        "nombre": "Antena LA LANGOSTA",
+        "NAME": "Antena LA LANGOSTA",
+        "tipo": "Radiobase MOVISTAR",
+        "ubicacion": "Av. Fco. Esteban Gomez. Sector Costa Azul, al lado de la S/E  Morroco de Corpoelec. Municipio mariño. Porlamar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8247861111111,
+          10.9742583333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 53,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "PORLAMAR",
+        "DIRECCION": "Calle Tubores, entre Fermin y Malave, detrás del estacionamiento de Rattan Hypermarket. Municipio Mariño. Porlamar",
+        "COORDENADAS": "Lat 10° 57' 49.46'' / Lon -63° 50' 25.03''",
+        "operadora": "MOVISTAR",
+        "OPERADORA": "MOVISTAR",
+        "nombre": "Antena PORLAMAR",
+        "NAME": "Antena PORLAMAR",
+        "tipo": "Radiobase MOVISTAR",
+        "ubicacion": "Calle Tubores, entre Fermin y Malave, detrás del estacionamiento de Rattan Hypermarket. Municipio Mariño. Porlamar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8402861111111,
+          10.9637388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 54,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "CONEJEROS",
+        "DIRECCION": "Calle Paramaconi. Sector Conejeros, al lado de la Bodega de Nixon. Municipio Mariño. Porlamar",
+        "COORDENADAS": "Lat 10° 57' 44.29'' / Lon  -63° 51' 53.3''",
+        "operadora": "MOVISTAR",
+        "OPERADORA": "MOVISTAR",
+        "nombre": "Antena CONEJEROS",
+        "NAME": "Antena CONEJEROS",
+        "tipo": "Radiobase MOVISTAR",
+        "ubicacion": "Calle Paramaconi. Sector Conejeros, al lado de la Bodega de Nixon. Municipio Mariño. Porlamar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8648055555556,
+          10.9623027777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 55,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "Boulevar Guevara",
+        "DIRECCION": "Calle Zamora con Martinez.  Fachada Colonial. Municipio Mariño. Porlamar",
+        "COORDENADAS": "Lat 10° 57' 20.57'' / Lon -63° 51' 7.74''",
+        "operadora": "MOVISTAR",
+        "OPERADORA": "MOVISTAR",
+        "nombre": "Antena Boulevar Guevara",
+        "NAME": "Antena Boulevar Guevara",
+        "tipo": "Radiobase MOVISTAR",
+        "ubicacion": "Calle Zamora con Martinez.  Fachada Colonial. Municipio Mariño. Porlamar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.85215,
+          10.9557138888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 56,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "VILLA ROSA",
+        "DIRECCION": "Av. JBA. Sector Cruz del Pastel al lado de la Ferreteria SEVEN. Municipio Diaz.",
+        "COORDENADAS": "Lat 10° 57' 5.13'' / Lon -63° 56' 23.01''",
+        "operadora": "MOVISTAR",
+        "OPERADORA": "MOVISTAR",
+        "nombre": "Antena VILLA ROSA",
+        "NAME": "Antena VILLA ROSA",
+        "tipo": "Radiobase MOVISTAR",
+        "ubicacion": "Av. JBA. Sector Cruz del Pastel al lado de la Ferreteria SEVEN. Municipio Diaz."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.939725,
+          10.951425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 57,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "LOS CERRITOS",
+        "DIRECCION": "Sector Atamo Norte. Cerro El Vigia. Municipio Arismendi",
+        "COORDENADAS": "Lat 11° 1' 6.64'' / Lon -63° 49' 36.26''",
+        "operadora": "MOVISTAR",
+        "OPERADORA": "MOVISTAR",
+        "nombre": "Antena LOS CERRITOS",
+        "NAME": "Antena LOS CERRITOS",
+        "tipo": "Radiobase MOVISTAR",
+        "ubicacion": "Sector Atamo Norte. Cerro El Vigia. Municipio Arismendi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8267388888889,
+          11.0185111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 58,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "CERRO COPEY",
+        "DIRECCION": "Parque nacional Cerro Copey. Sector de Antenas. Municipio Arismendi.",
+        "COORDENADAS": "Lat 10° 59' 51.3\"   / Lon -63° 54' 43,9\"",
+        "operadora": "MOVISTAR",
+        "OPERADORA": "MOVISTAR",
+        "nombre": "Antena CERRO COPEY",
+        "NAME": "Antena CERRO COPEY",
+        "tipo": "Radiobase MOVISTAR",
+        "ubicacion": "Parque nacional Cerro Copey. Sector de Antenas. Municipio Arismendi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9118611111111,
+          10.9975833333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 59,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "JUAN GRIEGO",
+        "DIRECCION": "Via Santa Ana, sector La Vecindad. Los Millanes. Municipio Marcano.",
+        "COORDENADAS": "Lat 11° 4' 20.87'' / Lon -63° 56' 53.84''",
+        "operadora": "MOVISTAR",
+        "OPERADORA": "MOVISTAR",
+        "nombre": "Antena JUAN GRIEGO",
+        "NAME": "Antena JUAN GRIEGO",
+        "tipo": "Radiobase MOVISTAR",
+        "ubicacion": "Via Santa Ana, sector La Vecindad. Los Millanes. Municipio Marcano."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9482888888889,
+          11.0724638888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 60,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "GUACUCO",
+        "DIRECCION": "Sector Sabana de Guacuco. Via Hotel Caribbean Beach. Municipio Arismendi.",
+        "COORDENADAS": "Lat 11° 3' 2.45''  / Lon -63° 48' 48.75''",
+        "operadora": "MOVISTAR",
+        "OPERADORA": "MOVISTAR",
+        "nombre": "Antena GUACUCO",
+        "NAME": "Antena GUACUCO",
+        "tipo": "Radiobase MOVISTAR",
+        "ubicacion": "Sector Sabana de Guacuco. Via Hotel Caribbean Beach. Municipio Arismendi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8135416666667,
+          11.0506805555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 61,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "PLAYA EL AGUA",
+        "DIRECCION": "Via Playa el Agua. Sector Playa Parguito",
+        "COORDENADAS": "Lat 11° 7' 41.96'' /  Lon -63° 50' 57.11''",
+        "operadora": "MOVISTAR",
+        "OPERADORA": "MOVISTAR",
+        "nombre": "Antena PLAYA EL AGUA",
+        "NAME": "Antena PLAYA EL AGUA",
+        "tipo": "Radiobase MOVISTAR",
+        "ubicacion": "Via Playa el Agua. Sector Playa Parguito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8491972222222,
+          11.1283222222222
+        ]
+      }
+    }
+  ]
+}

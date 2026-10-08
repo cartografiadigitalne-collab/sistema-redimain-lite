@@ -1,0 +1,306 @@
+{
+  "type": "FeatureCollection",
+  "name": "ANTENAS_Digitel",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 63,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "La Guardia",
+        "DIRECCION": "Calle Nueva con Arismendi. La guardia, Margarita.",
+        "COORDENADAS": "10°59'48.50''     64 01 10.10''",
+        "operadora": "DIGITEL",
+        "OPERADORA": "DIGITEL",
+        "nombre": "Antena La Guardia",
+        "NAME": "Antena La Guardia",
+        "tipo": "Radiobase DIGITEL",
+        "ubicacion": "Calle Nueva con Arismendi. La guardia, Margarita."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0194722222222,
+          10.9968055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 67,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "Asunción",
+        "DIRECCION": "Av. 31 de Julio con Las Margaritas. La Asunción.",
+        "COORDENADAS": "11  02  05.2 63  51  21.0''",
+        "operadora": "DIGITEL",
+        "OPERADORA": "DIGITEL",
+        "nombre": "Antena Asunción",
+        "NAME": "Antena Asunción",
+        "tipo": "Radiobase DIGITEL",
+        "ubicacion": "Av. 31 de Julio con Las Margaritas. La Asunción."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8558333333333,
+          11.0347777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 68,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "Av 4 de Mayo",
+        "DIRECCION": "Calle Narvaez con Calle Tubores, Edif. San Carlos. Porlamar, Isla de Margarita, Edo. Nueva Esparta, Mun. Mariño.",
+        "COORDENADAS": "10 59 11.00 63 50 35.06''",
+        "operadora": "DIGITEL",
+        "OPERADORA": "DIGITEL",
+        "nombre": "Antena Av 4 de Mayo",
+        "NAME": "Antena Av 4 de Mayo",
+        "tipo": "Radiobase DIGITEL",
+        "ubicacion": "Calle Narvaez con Calle Tubores, Edif. San Carlos. Porlamar, Isla de Margarita, Edo. Nueva Esparta, Mun. Mariño."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8430722222222,
+          10.9863888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 69,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "Boca de Pozo",
+        "DIRECCION": "Via Tejerías-Robledal, Sector Boca de Pozo (a 2.5 Km de la población de Robledal). Isla de Margarita, Edo. Nueva Esparta, Mun. Peninsula de Macanao",
+        "COORDENADAS": "11 00 53'' 64 22 36.10''",
+        "operadora": "DIGITEL",
+        "OPERADORA": "DIGITEL",
+        "nombre": "Antena Boca de Pozo",
+        "NAME": "Antena Boca de Pozo",
+        "tipo": "Radiobase DIGITEL",
+        "ubicacion": "Via Tejerías-Robledal, Sector Boca de Pozo (a 2.5 Km de la población de Robledal). Isla de Margarita, Edo. Nueva Esparta, Mun. Peninsula de Macanao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3766944444444,
+          11.0147222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 70,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "Boca de Rio",
+        "DIRECCION": "Calle Comejen, Urb El hato, Boca del Rio",
+        "COORDENADAS": "10° 58' 38.5'' 64° 10' 39.0''",
+        "operadora": "DIGITEL",
+        "OPERADORA": "DIGITEL",
+        "nombre": "Antena Boca de Rio",
+        "NAME": "Antena Boca de Rio",
+        "tipo": "Radiobase DIGITEL",
+        "ubicacion": "Calle Comejen, Urb El hato, Boca del Rio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.1775,
+          10.9773611111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 74,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "CC La redoma",
+        "DIRECCION": "CC comercial la redoma de los robles",
+        "COORDENADAS": "10°59'25.69  63°50'19.18''",
+        "operadora": "DIGITEL",
+        "OPERADORA": "DIGITEL",
+        "nombre": "Antena CC La redoma",
+        "NAME": "Antena CC La redoma",
+        "tipo": "Radiobase DIGITEL",
+        "ubicacion": "CC comercial la redoma de los robles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8386611111111,
+          10.9904694444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 76,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "Copey",
+        "DIRECCION": "Sector La Sierra, Cerro Copey, Parroquia Valle del espíritu Santo, Margarita.",
+        "COORDENADAS": "11°  00'  04.3'' 63°  54'  35.2''",
+        "operadora": "DIGITEL",
+        "OPERADORA": "DIGITEL",
+        "nombre": "Antena Copey",
+        "NAME": "Antena Copey",
+        "tipo": "Radiobase DIGITEL",
+        "ubicacion": "Sector La Sierra, Cerro Copey, Parroquia Valle del espíritu Santo, Margarita."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9097777777778,
+          11.0011944444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 107,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "Sambil Pta arenas",
+        "DIRECCION": "Centro Comercial Sambil,AV. Jovito Villalba, Pampatar, Margarita.-",
+        "COORDENADAS": "10°  59  44''  63° 48  46''",
+        "operadora": "DIGITEL",
+        "OPERADORA": "DIGITEL",
+        "nombre": "Antena Sambil Pta arenas",
+        "NAME": "Antena Sambil Pta arenas",
+        "tipo": "Radiobase DIGITEL",
+        "ubicacion": "Centro Comercial Sambil,AV. Jovito Villalba, Pampatar, Margarita.-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8127777777778,
+          10.9955555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 108,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "San Fernando",
+        "DIRECCION": "Ubr Jorge Coll",
+        "COORDENADAS": "11° 0'12.38''  63°49'42.41''",
+        "operadora": "DIGITEL",
+        "OPERADORA": "DIGITEL",
+        "nombre": "Antena San Fernando",
+        "NAME": "Antena San Fernando",
+        "tipo": "Radiobase DIGITEL",
+        "ubicacion": "Ubr Jorge Coll"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8284472222222,
+          11.0034388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 109,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "San Francisco Macanao",
+        "DIRECCION": "Sector El Tunal, a 3.5 km de San Francisco de Macanao, Edo. Nueva Esparta, Mun. Peninsula de Macanao",
+        "COORDENADAS": "11° 03 06.4'' 64° 17 06''",
+        "operadora": "DIGITEL",
+        "OPERADORA": "DIGITEL",
+        "nombre": "Antena San Francisco Macanao",
+        "NAME": "Antena San Francisco Macanao",
+        "tipo": "Radiobase DIGITEL",
+        "ubicacion": "Sector El Tunal, a 3.5 km de San Francisco de Macanao, Edo. Nueva Esparta, Mun. Peninsula de Macanao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.285,
+          11.0517777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 110,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "San Juan Bautista",
+        "DIRECCION": "Sector Boqueron, San Juan Bautista, Isla de Margarita,  Nueva Esparta, Mun. Díaz",
+        "COORDENADAS": "11° 01 25.30'' 63°57 04''",
+        "operadora": "DIGITEL",
+        "OPERADORA": "DIGITEL",
+        "nombre": "Antena San Juan Bautista",
+        "NAME": "Antena San Juan Bautista",
+        "tipo": "Radiobase DIGITEL",
+        "ubicacion": "Sector Boqueron, San Juan Bautista, Isla de Margarita,  Nueva Esparta, Mun. Díaz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9511111111111,
+          11.0236944444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "N": 111,
+        "REDI": "REDIMAIN",
+        "ZODI": "ZODINE",
+        "ADI": "",
+        "SECTOR": "San Pedro de Coche",
+        "DIRECCION": "Cerro La ermita, al lado de torre Movistar, San Pedro de Coche, Isla de Coche",
+        "COORDENADAS": "10' 46 55.30'' 63' 59 37.80''",
+        "operadora": "DIGITEL",
+        "OPERADORA": "DIGITEL",
+        "nombre": "Antena San Pedro de Coche",
+        "NAME": "Antena San Pedro de Coche",
+        "tipo": "Radiobase DIGITEL",
+        "ubicacion": "Cerro La ermita, al lado de torre Movistar, San Pedro de Coche, Isla de Coche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9938333333333,
+          10.7820277777778
+        ]
+      }
+    }
+  ]
+}
